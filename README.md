@@ -1,3 +1,6 @@
+👋 Hi, I'm Omprakash Ravula
+_____________________________________________________________________________________________________________________________
+
 🎯 Data Analyst | Aspiring Data Scientist
 📍 India
 _____________________________________________________________________________________________________________________________
@@ -25,6 +28,7 @@ Seaborn
 Statistics
 Data Cleaning
 Data Transformation
+_____________________________________________________________________________________________________________________________
 🔹 Projects
 
 📊 AmbitionBox EDA Analysis
@@ -32,11 +36,14 @@ Performed data cleaning and preprocessing
 Conducted exploratory data analysis on salary trends
 Identified key insights about companies and job roles
 Created visualizations for better understanding
+
 🐍 Python Fundamentals
 Built programs using core Python concepts
 Applied Object-Oriented Programming (OOP)
 Strengthened problem-solving skills
+_____________________________________________________________________________________________________________________________
 🔹 Currently Learning
+
 Machine Learning (real-world applications)
 Advanced SQL (joins, window functions, optimization)
 Power BI (interactive dashboards & storytelling)
