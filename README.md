@@ -47,11 +47,19 @@ ________________________________________________________________________________
 Machine Learning (real-world applications)
 Advanced SQL (joins, window functions, optimization)
 Power BI (interactive dashboards & storytelling)
+
 📫 Connect With Me
+
 🔗 GitHub: https://github.com/omprakashravula
+
 🔗 LinkedIn: www.linkedin.com/in/omprakash-ravula-b1793938b
+
 🔗 Medium: https://medium.com/@ravulaomprakash45
+
 ⚡ What I'm Working Towards
+
 Building real-world data projects
+
 Creating impactful dashboards
+
 Transitioning into a Data Analyst / Data Scientist role
