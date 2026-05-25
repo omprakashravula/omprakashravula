@@ -1,12 +1,12 @@
 🎯 Data Analyst | Aspiring Data Scientist
 📍 India
-
+_____________________________________________________________________________________________________________________________
 🔹 About Me
 I am a data-focused problem solver with hands-on experience in Python, SQL, and data visualization.
 I specialize in cleaning, analyzing, and transforming raw data into actionable insights.
 
 I focus on extracting meaningful patterns from data that support better decision-making.
-
+_____________________________________________________________________________________________________________________________
 🔹 Skills
 💻 Programming & Querying
 Python
