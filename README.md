@@ -85,4 +85,4 @@ Building real-world data projects
 
 Creating impactful dashboards
 
-Transitioning into a Data Analyst / Data Scientist role
+Transitioning into a Data Analyst / Data Scientist Role
